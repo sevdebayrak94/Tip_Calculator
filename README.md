@@ -1,9 +1,6 @@
 ## Tip_Calculator
-Calculate bill based on percentage of tip,
 
-#This little project calculates the bill per person. One can choose the percentage of the tip or not give the tip. 
-#Quickly modifiable
+- Imagine you go to the restaurant and want to share bill, but giving tip would be nice to ! (Tips: 10%, 12%, and 15%)
+- Based on percentage of tip calculate the money that will you give.
 
-
-
-##Enjoy
+## Enjoy
